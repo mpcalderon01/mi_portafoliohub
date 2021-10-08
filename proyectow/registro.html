@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Registro</title>
+    	<link rel="stylesheet" type="text/css" href="../proyecto/stilosregistro.css">
+        <link rel="icon" href="../proyecto/ico.ico">
+</head>
+
+<body>
+
+    <form action="insertarUsuarios.php" method="POST" >
+
+        <H1>FORMULARIO REGISTRO</H1>
+        
+        <label for="Doc">Doc cliente</label><br>
+
+        <input type="text" name="Doc"  placeholder="Ingrese su Numero de Documento" minlength="5" maxlength="15"><br>
+
+        <label for="nombre">Nombre</label><br>
+
+        <input type="text" name="nombre" placeholder="Ingrese su Nombre"
+           minlength="5" maxlength="15" onkeyup="javascript:this.value=this.value.toUpperCase();" title="Letras.Tamaño mínimo: 5. Tamaño máximo: 15" />
+
+        <label for="apellido">Apellido:</label><br>
+
+        <input type="text" name="apellido" placeholder="Ingrese su Apellido"
+           minlength="5" maxlength="15" onkeyup="javascript:this.value=this.value.toUpperCase();" title="Letras.Tamaño mínimo: 5. Tamaño máximo: 15"/>
+
+        <label for="correo">Correo:</label><br>
+
+        <input type="email" value=""  name="correo" placeholder="Ingrese su Correo Electronico" required>
+
+         <label for="telefono">Telefono:</label><br>
+
+        <input type="text" placeholder="ingrese su Telefono" name="telefono"  minlength="5" maxlength="15" required ><br>
+
+        <label for="usuario">Usuario:</label><br>
+
+        <input type="text" style="text-transform:uppercase;" value=""  name="usuario" title="Letras.Tamaño mínimo: 5. Tamaño máximo: 10" placeholder="Cree su Usuario">
+
+        <label for="contrasena" >Contraseña:</label><br>
+        
+        <input type="password" placeholder="Cree su Contraseña" name="contrasena" id=""required >
+        
+        <input class="boton"type="submit"  name="Enviar Datos">
+    </form>
+
+<a href="../proyectow/index.php">Pagina Anterior</a>
+
+</body>
+</html>

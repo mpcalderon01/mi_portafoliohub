@@ -1,0 +1,109 @@
+body{
+	font-family: Tempus Sans ITC;
+	color: black;
+	font-size: 1.3rem;
+	line-height: 1.7em;
+	margin: 0;
+}
+
+
+h1{
+	font-size: 2rem;
+	line-height: 1.3em;
+}
+
+
+p{
+
+margin-bottom: 1.6em;
+
+}
+
+
+.contenido {
+
+	width: 80%;
+	max-width: 850px;
+	margin: 0 auto;
+}
+
+.header{
+
+	background:purple;
+	color: white;
+	padding: 1rem 0;
+	position: fixed;
+	left: 0;
+	top:0;
+	width: 100%;
+}
+
+
+.header a{
+
+	color: white;
+	text-decoration: none;
+	padding: 2rem;
+}
+
+.portafolio-navegacion-contenido{
+
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+
+.portafolio{
+
+	letter-spacing: 20px;
+	font-size: 1.4em;
+
+}
+
+.navegacion ul{
+     
+     margin:0;
+     padding: 0;
+     list-style: none;
+}
+
+
+.navegacion ul li{
+
+	display: inline-block;
+
+}
+
+.navegacion ul li a{
+	display: block;
+	padding: 0.8rem 2rem;
+	transition: all 0.8s linear;
+	border-radius: 4px;
+
+}
+
+.navegacion ul li a:hover {
+
+background: black;
+
+}
+
+.main{
+
+	padding-top: 10rem;
+    font-family: The Hand Black;
+}
+
+
+
+
+.footer{
+
+	background: #f2f2f2;
+	padding: 1rem 0;
+	text-align: center;
+	margin-top: 8rem;
+
+}
+

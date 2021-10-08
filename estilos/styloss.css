@@ -1,0 +1,52 @@
+body{
+	background-color:black;
+	font-family: Bodoni MT Black;
+	font-size: 17px;
+
+}
+
+
+.container{
+
+     display: grid;
+     grid-template-columns:repeat(4,1fr);
+     width:100%;
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 3em;
+     margin-bottom: 3em;
+     grid-gap: 10px;
+
+ }
+
+
+h2{
+
+	font-family:Bodoni MT Black;
+	font-size: 22px;
+	text-align: center;
+	text-decoration: underline;
+}
+
+p{
+
+	font-family: Arial;
+	font-size: 13px;
+	text-align:center;
+	color: black;
+	text-shadow: 5px 5px 5px white;
+}
+
+ .item{
+
+	 background-color: white;
+	 box-shadow: 0 0 50px 0 rgba(0, 0, 0,.095);
+	 transition: all 2200ms;
+
+	}
+
+
+.item:hover{
+
+	transform: scale(1.08);
+}

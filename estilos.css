@@ -1,0 +1,61 @@
+body{
+background:url(imagenes/fondo.jpg);
+
+}
+
+
+h1{
+    color:purple;
+	font-family: Showcard Gothic;
+	text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+	letter-spacing: 10px;
+	text-shadow: 3px 3px 3px #F7BE81;
+}
+
+
+
+header, footer{
+
+	background-color: #F8E0E6;
+	border-style: solid;
+	border-radius:70px;
+	padding: 1px;
+	text-align: center;
+}
+
+
+.menu{
+    
+    background-color: purple;
+    font-family: Showcard Gothic;
+    font-size: 28px; 
+    text-align: center;
+    word-spacing: 5px;
+	padding: 2px;
+	width: 100%;
+	max-width: 1000px;
+	margin: auto;
+	text-shadow: 3px 3px 3px purple;
+}
+
+.menu li a{
+
+	text-decoration: none;
+	color: pink;
+	padding: 20px;
+	display: block;
+}
+
+
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+
+
+.menu li a:hover{
+
+     background: #FAAC58;
+}
