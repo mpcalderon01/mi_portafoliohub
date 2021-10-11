@@ -9,7 +9,7 @@
 <body>
 
 
-         <p> <h1>Variables <span>Matematicas</span></h1>
+         <h1>Variables <span>Matematicas</span></h1>
          <pre>
                 var sumar=()=>{
                 var n1 = document.getElementById('txtN1').value;
@@ -80,12 +80,12 @@
                     }
                 }
 
-            } </p>
+            } 
     
 
            </pre> 
 
- <p> <h1>Datos dentro<span> del Array</span></h1></div> 
+      <h1>Datos dentro<span> del Array</span></h1></div> 
       
       <pre>
        var vec=0;
@@ -219,7 +219,7 @@
         }
 
       </pre>
-      </p>
+      
     
 </body>
 </html>

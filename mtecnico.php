@@ -81,13 +81,6 @@
 
 
 <li>
-<input type="radio" id="sbutton11" name="slideradio" checked>
-<label for="sbutton11"> </label>
-<img src="imagenes/mu11.png"  alt="">
-</li>
-
-
-<li>
 <input type="radio" id="sbutton12" name="slideradio" checked>
 <label for="sbutton12"> </label>
 <img src="imagenes/mt12.png"  alt="">
