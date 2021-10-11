@@ -1,6 +1,7 @@
 body{
     
-    background: white;
+    background:url(../imagenes/f4.jpg);
+    background-size: contain;
 	margin: 0;
 	display: flex;
 	min-height: 100vh;

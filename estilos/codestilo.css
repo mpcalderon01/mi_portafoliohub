@@ -1,0 +1,89 @@
+body{
+
+background:url(../imagenes/f3.jpg);
+background-size: contain;
+
+}
+
+
+
+h1{
+
+	font-size: 50px;
+	text-align: center;
+	color: #353739;
+	font-family: Haettenschweiler;
+	text-shadow: 4px 4px 4px #FFC0CB;
+}
+
+
+
+h3{
+
+font-size: 20px;
+text-align: center;
+color: #3D4144 ;
+font-family: arial;
+
+
+}
+
+
+
+h2{
+
+font-size: 20px;
+text-align: center;
+color: #3D4144 ;
+font-family: arial;
+
+}
+
+
+h4{
+
+font-size: 20px;
+text-align: center;
+color: #3D4144 ;
+font-family: arial;
+
+
+}
+
+h5{
+
+font-size: 20px;
+text-align: center;
+color: #3D4144 ;
+font-family: arial;
+
+
+}
+
+
+h6{
+
+font-size: 20px;
+text-align: center;
+color: #3D4144 ;
+font-family: arial;
+
+}
+
+
+p{
+
+font-size: 20px;
+text-align: center;
+color: #3D4144 ;
+font-family: arial;
+
+
+}
+
+
+img{
+
+	float: center;
+}
+

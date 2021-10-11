@@ -1,0 +1,126 @@
+body{
+
+	background: url(../imagenes/fondo1.jpg);
+	background-size: contain;
+	font-family: calibri;
+	font-size: 1.3rem;
+	line-height: 1.4em;
+	margin: 0;
+}
+
+
+h1{
+	font-size: 2rem;
+	line-height: 1.3em;
+	text-align: center;
+}
+
+
+p{
+
+font-size: 20px;
+margin-bottom: 1.2em;
+float: center;
+text-align: center;
+
+
+}
+
+
+h2{
+
+font-size: 20px;
+margin-bottom: 1.2em;
+float: center;
+text-align: center;
+
+
+}
+
+.contenido {
+
+	width: 80%;
+	max-width: 850px;
+	margin: 0 auto;
+}
+
+.header{
+
+	background:#696969;
+	color: white;
+	padding: 1rem 0;
+	position: fixed;
+	left: 0;
+	top:0;
+	width: 100%;
+}
+
+
+.header a{
+
+	color: white;
+	text-decoration: none;
+	padding: 2rem;
+}
+
+.crud-navegacion-contenido{
+
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+
+
+.navegacion ul{
+     
+     margin:0;
+     padding: 0;
+     list-style: none;
+}
+
+
+.navegacion ul li{
+
+	display: inline-block;
+
+}
+
+.navegacion ul li a{
+	display: block;
+	padding: 0.3rem 2rem;
+	transition: all 0.8s linear;
+	border-radius: 2px;
+
+}
+
+.navegacion ul li a:hover {
+
+background: white;
+
+}
+
+.main{
+
+	padding-top: 5rem;
+    font-family: The Hand Black;
+}
+
+
+
+
+.footer{
+
+	background: #D3D3D3;
+	padding: 1rem 0;
+	text-align: center;
+	margin-top: 9rem;
+
+}
+
+
+ol{
+
+	font-size: 20px;
+	font-family: calibri;
+}
