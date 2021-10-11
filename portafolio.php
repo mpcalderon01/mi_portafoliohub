@@ -9,14 +9,14 @@
 
 <header class="header">
 <div class="portafolio-navegacion-contenido">
-	<a href="#" class="portafolio"> PORTAFOLIO </a>
+	<a href="miportafolio.php" class="portafolio"> PORTAFOLIO </a>
 	<nav class="navegacion">
 		
 <ul>
-<li> <a href="arriving.html"> PROYECTO </a>
-<li> <a href="manuales.html"> MANUAL U </a></li>
-<li> <a href="mtecnico.html"> MANUAL T </a></li>
-<li> <a href="habilidades.html"> HABILIDADES </a></li>
+<li> <a href="habilidades.php"> HABILIDADES </a></li>
+<li> <a href="manuales.php"> MANUAL U </a></li>
+<li> <a href="mtecnico.php"> MANUAL T </a></li>
+<li> <a href="arriving.php"> PROYECTO </a>
 
 
 </ul>

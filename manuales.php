@@ -94,7 +94,7 @@
 </li>
 
 <ul class="manualt">
-<li> <a href="mtecnico.html"> MANUAL TECNICO </a> </li>
+<li> <a href="mtecnico.php"> MANUAL TECNICO </a> </li>
 </ul>
 
 </ul>

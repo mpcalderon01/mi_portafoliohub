@@ -12,7 +12,7 @@
 	<nav class="navegacion">
 		
 <ul>
-<li> <a href="codigocrud.html"> Cómo desarrollar un CRUD PHP grid para tu base de datos </a>
+<li> <a href="codigocrud.php"> Cómo desarrollar un CRUD PHP grid para tu base de datos </a>
 </ul>
 </nav>
 </div>
@@ -39,7 +39,7 @@
 </main>
 <footer class="footer">
 <div class="contenido">
-<p> <a href="codigocrud.html"> ¿Como hacer un CRUD? Dale Click! </a> </p>
+<p> <a href="codigocrud.php"> ¿Como hacer un CRUD? Dale Click! </a> </p>
 </div>
 </footer>	
 

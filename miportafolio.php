@@ -9,16 +9,16 @@
 
 <header>
 <h1> MI PORTAFOLIO <br>
-<a href="portafolio.html"> Click! </a> <br>
+<a href="portafolio.php"> Click! </a> <br>
 MARIA PAULA CALDERON MEJIA <img src="imagenes/paula.jpg"> </h1> 
 </header>
 
 <ul class="menu">
 <li> <a href="proyectow/index.html"> PROYECTO FORMATIVO </a> </li>
-<li> <a href="crud.html"> CRUD </a> </li>
-<li> <a href="manuales.html"> MANUAL DE USUARIO </a> </li>
-<li> <a href="mtecnico.html"> MANUAL TECNICO </a> </li>
-<li> <a href="#"> EJERCICIOS DE JAVASCRIPT </a> </li>
+<li> <a href="crud.php"> CRUD </a> </li>
+<li> <a href="manuales.php"> MANUAL DE USUARIO </a> </li>
+<li> <a href="mtecnico.php"> MANUAL TECNICO </a> </li>
+<li> <a href="ejvs.php"> EJERCICIOS DE JAVASCRIPT </a> </li>
 </ul>
 <br><br><br>
 

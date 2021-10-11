@@ -12,7 +12,7 @@
 	<h2> <label for="ARRIVING" class="form-label" >ARRIVING:</label> 
 
 
-    <h3> <a href="proyecto.html"> Click aquí para continuar </a>
+    <h3> <a href="proyecto.php"> Click aquí para continuar </a>
     </div>
 
  

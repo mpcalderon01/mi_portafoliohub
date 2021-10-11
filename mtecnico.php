@@ -93,7 +93,7 @@
 <img src="imagenes/mt12.png"  alt="">
 </li>
 
-<li> <a href="manuales.html"> MANUAL DE USUARIO </a> </li>
+<li> <a href="manuales.php"> MANUAL DE USUARIO </a> </li>
 
 
 
